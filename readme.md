@@ -1,15 +1,19 @@
-# Data Management Implementation README
+[Project Homepage](https://landonma.github.io/Data-Management-Templates-Project/) - [Main Repository](https://github.com/landonma/Data-Management-Templates-Project) - [Documentation File Repository](https://landonma.github.io/Data-Management-Documentation-File-Creator/) - [Documentation File Template](https://landonma.github.io/Data-Management-Documentation-File-Creator/)
 
-[Main Repository](https://landonma.github.io/Data-Management-Templates-Project/)
+# Data Management Implementation Template
+-------------------
+This repository contains a template for to help you create a data management implementation file. !!
 
-*Go [HERE]() for more detailed instructions*  
-Download this [repository](https://github.com/landonma/Data-Management-Documentation-File-Creator). Edit the documentation template file using your own information. If you want to use Github Pages upload the edit file and enable Github Pages
-contact information
 
-Created by the [Oregon State Research Data Services Group](https://guides.library.oregonstate.edu/research-data-services).    
+## Creator Information
+Created by Clara Liebot Lorente and Mark Landon for the [Oregon State Research Data Services](https://guides.library.oregonstate.edu/research-data-services).
 
-This work is licensed under a Creative Commons No Rights Reserved (CC0) license. [Link](https://creativecommons.org/publicdomain/zero/1.0/)
+## Instructions for Completing the Template
+*Go [HERE](https://github.com/landonma/Data-Management-Templates-Project/blob/master/readme.md) for more detailed instructions*  
+Download our [repository](https://github.com/landonma/Data-Management-Documentation-File-Creator) repository which contains the template. Open the template in a text editor. Next fill in your own information and delete the instructions. If you want to use Github Pages upload the edited file into your own repository and enable Github Pages.
 
+## Licensing
+This work is licensed under a [Creative Commons No Rights Reserved (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## FAQ
 ### Who is this project for?
