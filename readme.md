@@ -2,7 +2,7 @@
 
 # Data Management Implementation Template
 -------------------
-This repository contains a template for to help you create
+This repository contains a template for to help you create a Data Management Implementation Document. This document gives specific guidelines to help the researchers in the project to manage data in a coordinated manner. This should be a living document that can be updated during the project as much as it is needed.  
 
 ## Instructions for Completing the Template
 *Go [HERE](https://github.com/landonma/Data-Management-Templates-Project/blob/master/readme.md) for more detailed instructions*  
