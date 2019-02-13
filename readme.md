@@ -30,34 +30,12 @@ If you need help to write a Data Management Plan you can:
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
-### How can I get help to write my own Data Management Plan?
-This template is not for writing Data Managment Plans for grant applications. It is to write a living implementation of such Data Management Plans.
-
-If you need help to write a Data Management Plan you can:
-- Find guidance in [DMPTool.org](https://dmptool.org/)
-- Find guidance in [DMPonline](https://dmponline.dcc.ac.uk/)
-- Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan.
-- If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
-
-### Does my Data Management Plan Implementation need to be in GitHub?
-
-No, it does not need to be in GitHub. There are a few reasons why we have decided to host this Data Management Plan Implementation Template in GitHub:
-- Because you can easily clone our template, edit it, and have a website with your Data Management Plan Implementation. Having a public Data Management Plan Implementation in the form of a website will help your research group because it will make your data management practices transparent, and because everybody in your research group will be able to consult them easily from wherever they are.
-- Because it is a tool that many researchers are already familiar with. If you are not one of these researchers, we have created guidelines to help you through the process.
-- Because you can edit websites with Markdown. You do not need to know html or other programming languages. Markdown is generally intuitive and easy to learn for most researchers. We have also included a few guidelines for Markdown editing in this template, just in case.
-
-However, there are many reasons why GitHub may not be the right choice for a research project. This template is also accessible as a Word document, a pdf, and a LaTeX document.
-
 ### What if I don't have a Data Management Plan?
 The assumption of this Data Management Plan Implementation Template is that you have a Data Management Plan that you want to implement. This is the case of many research projects because many funding agencies require data management plans to be submitted with grant proposals. But if this is not your case, you can still use this template! We actually really encourage you to do so. Go ahead and start editing!
 
 ### How do I acknowledge that I am using your template?
 
 This template is published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do. You can include a line to your Data Management Plan or to the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
-
-### I don't want my data management plan to be openly available. How can I use this template?
-
-Unfortunately, there is no way of hosting a website using GitHub pages and having your pages be private. They will be openly available. You can use other formats of the template that we distribute: Word, pdf, LaTeX.
 
 
 ### Will I find this template useful if I am not from OSU?
